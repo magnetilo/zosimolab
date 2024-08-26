@@ -15,7 +15,6 @@ Apart from efficiency monitoring, such a framework can be used for a general roo
 https://www.swissenergyplanning.ch/post/machine-learning-based-heat-demand-model
 * ...a paper presenting the framework is in progress in collaboration with Hochschule Luzern.
 
-![Framework diagram](/img/framwork_schema.png)
-<img src="/img/framwork_schema.png" alt="Framework diagram" width="200"/>
+<img src="/img/framwork_schema.png" alt="Framework diagram" width="500"/>
 
 ![Partial dependences for different input features](/img/pdp_heat_demand_indicator.png)
