@@ -23,3 +23,5 @@ https://www.swissenergyplanning.ch/post/machine-learning-based-heat-demand-model
 ![Framework diagram](/img/framwork_schema.png)
 
 ![Partial dependences for different input features](/img/pdp_heat_demand_indicator.png)
+
+-----
