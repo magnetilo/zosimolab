@@ -14,6 +14,11 @@ It’s possible. Ask Zosimo the alchemist.
 
 # Offerings
 
+- [Machine Learning and Data Science Consulting](#machine-learning-and-data-science-consulting)
+- [Innovative Prototype Development](#innovative-prototype-development)
+- [Custom AI Solutions](#custom-ai-solutions)
+- [Creative Consulting](#creative-consulting)
+
 ## Machine Learning and Data Science Consulting
 - **Data Analysis and Visualization:** Create and enhance understanding of complex processes and problems through analyzing monitoring datasets. ** Example projects:** [Energy efficiency monitoring and root cause analysis](#energy-efficiency-monitoring-and-root-cause-analysis), [Time-to-event prediction and survival analysis](#time-to-event-prediction-and-survival-analysis), [Model-based signal processing and sparse priors](#model-based-signal-processing-and-sparse-priors)
 - **Monitoring and Predictive Modeling:** Build up monitoring for indicators of interest and develop predictive models to forecast demands, trends, customer behaviors, and more.  **Example projects:** [Energy and CO2 monitoring for municipalities](#energy-and-CO2-monitoring-for-municipalities), [Energy efficiency monitoring and root cause analysis](#energy-efficiency-monitoring-and-root-cause-analysis)
