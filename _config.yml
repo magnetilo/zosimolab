@@ -1,5 +1,5 @@
 title: Thilo Weber
-logo: /img/kl_DSC07158.jpg
-#description: text below image
-show_downloads: true
+logo: /img/Logo_small.png
+description: Offerings and projects: ZosimoLabs
+show_downloads: False
 theme: jekyll-theme-minimal
