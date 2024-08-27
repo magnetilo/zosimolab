@@ -8,7 +8,7 @@ It’s possible. Ask Zosimo the Alchemist.
 ````
 
 - [Offerings](#offerings)
-- [Example projects](#example-projects)
+- [Example Projects](#example-projects)
 
 -----
 
@@ -20,11 +20,11 @@ It’s possible. Ask Zosimo the Alchemist.
 - [Creative Consulting](#creative-consulting)
 
 ## Machine Learning and Data Science Consulting
-- **Data Analysis and Visualization:** Create and enhance understanding of complex processes and problems through analyzing monitoring datasets. ** Example projects:** [Energy efficiency monitoring and root cause analysis](#energy-efficiency-monitoring-and-root-cause-analysis), [Time-to-event prediction and survival analysis](#time-to-event-prediction-and-survival-analysis), [Model-based signal processing and sparse priors](#model-based-signal-processing-and-sparse-priors)
-- **Monitoring and Predictive Modeling:** Build up monitoring for indicators of interest and develop predictive models to forecast demands, trends, customer behaviors, and more.  **Example projects:** [Energy and CO2 monitoring for municipalities](#energy-and-CO2-monitoring-for-municipalities), [Energy efficiency monitoring and root cause analysis](#energy-efficiency-monitoring-and-root-cause-analysis)
+- **Data Analysis and Visualization:** Create and enhance understanding of complex processes and problems through analyzing monitoring datasets. ** Example projects:** [Energy Efficiency Monitoring and Root Cause Analysis](#energy-efficiency-monitoring-and-root-cause-analysis), [Time-to-Event Prediction and Survival Analysis](#time-to-event-prediction-and-survival-analysis), [Model-based Signal Processing and Sparse Priors](#model-based-signal-processing-and-sparse-priors)
+- **Monitoring and Predictive Modeling:** Build up monitoring for indicators of interest and develop predictive models to forecast demands, trends, customer behaviors, and more.  **Example projects:** [Energy and CO2 Monitoring for Municipalities](#energy-and-CO2-monitoring-for-municipalities), [Energy Efficiency Monitoring and Root Cause Analysis](#energy-efficiency-monitoring-and-root-cause-analysis)
 - **Natural Language Processing (NLP):** Implement NLP solutions for analyzing and structuring unstructured data and developing chatbots. ** Example projects:** “Address matching service”, ... currently working on a RAG-chatbot  project
-- **Computer Vision:** Create image and video analysis models for applications in security, healthcare, retail, etc.  **Example projects:** [Image segmentation from classification labels only](#image-segmentation-from-classification-labels-only)
-- **Recommendation Systems:** Build personalized recommendation engines to support workflow of sales and operations employees, or enhance user experiences in e-commerce and content platforms.  **Example projects:** [Machine learning-based lead generator (or recommender system)](#machine-learning-based-lead-generator-(or–recommender-system)), [Time-to-event prediction and survival analysis](#time-to-event-prediction-and-survival-analysis)
+- **Computer Vision:** Create image and video analysis models for applications in security, healthcare, retail, etc.  **Example projects:** [Image Segmentation from Classification Labels only](#image-segmentation-from-classification-labels-only)
+- **Recommendation Systems:** Build personalized recommendation engines to support workflow of sales and operations employees, or enhance user experiences in e-commerce and content platforms.  **Example projects:** [Machine Learning-based Lead Generator (or Recommender System)](#machine-learning-based-lead-generator-(or–recommender-system)), [Time-to-Event Prediction and Survival Analysis](#time-to-event-prediction-and-survival-analysis)
 
 ## Innovative Prototype Development
 - **Prototype Ideation:** Generate creative, data-driven ideas that can be transformed into innovative prototypes.
@@ -42,16 +42,16 @@ It’s possible. Ask Zosimo the Alchemist.
 
 -----
 
-# Example projects
+# Example Projects
 
-* [Energy efficiency monitoring and root cause analysis](#energy-efficiency-monitoring-and-root-cause-analysis)
-* [Energy and CO2 monitoring for municipalities](#energy-and-CO2-monitoring-for-municipalities)
-* [Model-based signal processing and sparse priors](#model-based-signal-processing-and-sparse-priors)
-* [Machine learning-based lead generator (or recommender system)](#machine-learning-based-lead-generator-(or–recommender-system))
-* [Time-to-event prediction and survival analysis](#time-to-event-prediction-and-survival-analysis)
-* [Image segmentation from classification labels only](#image-segmentation-from-classification-labels-only)
+* [Energy Efficiency Monitoring and Root Cause Analysis](#energy-efficiency-monitoring-and-root-cause-analysis)
+* [Energy and CO2 Monitoring for Municipalities](#energy-and-CO2-monitoring-for-municipalities)
+* [Model-based Signal Processing and Sparse Priors](#model-based-signal-processing-and-sparse-priors)
+* [Machine Learning-based Lead Generator (or Recommender System)](#machine-learning-based-lead-generator-(or–recommender-system))
+* [Time-to-Event Prediction and Survival Analysis](#time-to-event-prediction-and-survival-analysis)
+* [Image Segmentation from Classification Labels only](#image-segmentation-from-classification-labels-only)
 
-## Energy efficiency monitoring and root cause analysis
+## Energy Efficiency Monitoring and Root Cause Analysis
 
 ### Description:
 At geoimpact, I developed machine learning models for predicting the yearly heat and electricity demands of buildings. In the context of a Master’s thesis, we used these models to estimate the actual reduction in yearly heat consumption effected by different renovation measures (roof/facade insulation, window replacement, ...). This framework can be used to build a monitoring of the effects of different measures applied to buildings in a portfolio or a region.
@@ -76,7 +76,7 @@ Python, Scikit-Learn, Tensorflow, MLflow, PostgreSQL, Kubernetes
 
 -----
 
-## Energy and CO2 monitoring for municipalities
+## Energy and CO2 Monitoring for Municipalities
 
 ### Description:
 At geoimpact, in collaboration with the Federal Office of Energy, we developed the public web application Energy Reporter, which monitors the progress of all Swiss municipalities in the energy transition. I was responsible for the design and deployment of the methodology and data pipeline that imports public datasets and updates the six indicators every week. The indicators of Energy Reporter are published as open data. Building on the Energy Reporter, I further developed a comprehensive energy and CO2 monitoring containing over fifty fine granulated indicators, among which also the scope 1 and 2 CO2 emissions per municipality and year.
@@ -99,7 +99,7 @@ Python, Pandas, Scikit-Learn, PostgreSQL, Kubernetes, Hangfire
 
 -----
 
-## Model-based signal processing and sparse priors
+## Model-based Signal Processing and Sparse Priors
 
 ### Description:
 In my Master’s thesis at ETH Zurich, I used statistical signal processing methods for separating positional eye movement measurements into different types (saccades, smooth pursuit, and fixation eye movements). I developed a novel approach to precessing eye movement signals based on estimating signals in a mechanistic physiological model of the eye muscles. Apart from signal separation, the framework is also able to estimate the neural inputs into the eye muscles from the positional measurements.
@@ -124,7 +124,7 @@ Matlab
 
 -----
 
-## Machine learning-based lead generator (or recommender system)
+## Machine Learning-based Lead Generator (or Recommender System)
 
 ### Description:
 At geoimpact, I developed a lead generator that suggests promising buildings for the sale of a renewable energy product based on a list of past sales of the product.
@@ -147,7 +147,7 @@ Python, Scikit-Learn
 
 -----
 
-## Time-to-event prediction and survival analysis
+## Time-to-Event Prediction and Survival Analysis
 
 ### Description:
 At geoimpact, I developed multiple models for estimating the renovation pressure of a building. The underlying problem structure of calculating the time until a certain event happens has a variaty of applications apart from renovation rates in industry, medicine, churn rate (in e-commerce and human resources), and more.
@@ -171,7 +171,7 @@ Python, lifelines, TensorFlow Probability
 
 -----
 
-## Image segmentation from classification labels only
+## Image Segmentation from Classification Labels only
 
 ### Description:
 At geoimpact, I developed a model for detecting photovoltaic (PV) systems in satellite images and estimating their area. The plan was to extract a Swiss-wide data base with all installed PV-systems and their installed capacity from arerial and satellite images.
