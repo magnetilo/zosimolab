@@ -3,8 +3,8 @@
 ZosimoLabs is a single headed company by Thilo Weber.
 ````
 Data is the new gold! 
-You just need an alchemist. 
-It’s possible. Ask Zosimo the alchemist.
+All you need is an alchemist. 
+It’s possible. Ask Zosimo the Alchemist.
 ````
 
 - [Offerings](#offerings)
