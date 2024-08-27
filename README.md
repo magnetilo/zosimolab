@@ -7,6 +7,9 @@ You just need an alchemist. 
 It’s possible. Ask Zosimo the alchemist.
 ````
 
+- [Offerings](#offerings)
+- [Example projects](#example-projects)
+
 -----
 
 # Offerings
@@ -34,7 +37,7 @@ It’s possible. Ask Zosimo the alchemist.
 
 -----
 
-# Example Projects
+# Example projects
 
 * [Energy efficiency monitoring and root cause analysis](#energy-efficiency-monitoring-and-root-cause-analysis)
 * [Energy and CO2 monitoring for municipalities](#energy-and-CO2-monitoring-for-municipalities)
