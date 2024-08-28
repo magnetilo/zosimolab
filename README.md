@@ -1,6 +1,6 @@
-# ZosimoLabs
+# ZosimoLab
 
-ZosimoLabs is a single headed company by Thilo Weber.
+ZosimoLab by Thilo Weber is a sole proprietorship business.
 ````
 Data is the new gold! 
 All you need is an alchemist. 
