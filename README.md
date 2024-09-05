@@ -192,7 +192,7 @@ Python, PyTorch, OpenCV
 -----
 
 # About
-````
+> ````
 ca. 300
 Zosimos of Panopolis (also known by the Latin name Zosimus Alchemista) was an alchemist living in the south of then Roman Egypt who wrote the oldest known books on alchemy. Alchemists were striving for understanding external and internal nature. In particular, one quest was the transformation of cupper into gold through a process of purification. This process of purifying external nature was thought to be mirrored by a process of purifying internal nature, where the quest was to draw the spirit from its bondage with bodies.
 
