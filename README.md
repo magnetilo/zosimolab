@@ -1,9 +1,9 @@
 # ZosimoLab
 
-ZosimoLab by Thilo Weber is a sole proprietorship business.
+ZosimoLab is a data and knowledge company in formation by Thilo Weber.
 ````
 Data is the new gold! 
-All you need is an alchemist. 
+You just need an alchemist. 
 It’s possible. Ask Zosimo the Alchemist.
 ````
 
@@ -188,3 +188,26 @@ Soon after we started the project, the Swiss Federal Office of Energy published 
 Python, PyTorch, OpenCV
 
 ![test_CAM](/img/test_CAM.jpg)
+
+-----
+
+# About
+````
+ca. 300
+Zosimos of Panopolis (also known by the Latin name Zosimus Alchemista) was an alchemist living in the south of then Roman Egypt who wrote the oldest known books on alchemy. Alchemist were striving for understanding external and internal nature. In particular, one quest was the transformation of cupper into gold through a process of purification. This process of purifying external nature was thought to be mirrored by a process of purifying internal nature, where the quest was to draw the spirit from its bondage with bodies.
+
+1718
+Zosimo was a farmer living in Sicily who was elected king by the people. The people of Sicily were at the time controled by Spanish oppressors. Zosimo started a revolution that brought the power back to the people, at least for a short period of time. I like to think of him as a social transformer or alchemist. There is a book written about his stroy by Andrea Camilleri as well as a song by the band Il Coccodrillo.
+
+2024
+The first alchemists' strive for understanding and purifying external nature evolved into a deep understanding of and ability to control physical nature, resulting in trains, cars, electrical devices and many useful things. In a new age of data and artificial intelligence, we arrived at understanding and controlling a new level of nature: the level of thoughts and information. ZosimoLab is founded to assist you in realizing the vast possibilities hidden on this level of thoughts and information - and thereby transforming your data into gold.
+````
+
+About me:
+My name is Thilo Weber, I have a Msc. in electrical engineering and information processing from ETH Zurich, and several years of experience in realizing data science and machine learning projects in the industry. Trough ZosimoLab, I want to share my passion for understanding the world through data with you, and help you to create great machine learning solutions. Further, I would also like to share my process of inner alchemy by embedding the current processes in data science and artificial intelligence in a phsychological and philosophical understanding.
+
+![kl_portrait](/img/kl_portrait.jpg)
+
+
+
+
