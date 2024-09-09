@@ -7,14 +7,27 @@ You just need an alchemist. 
 It’s possible. Ask Zosimo the Alchemist.
 ````
 
-- [Booking](https://www.freelancermap.ch/profil/thilo-weber)
-- [Offerings](#offerings)
+- [For who?](#for-who?)
+- [Services](#services)
 - [Example Projects](#example-projects)
 - [About](#about)
+- [Blog](#blog)
+- [Contact](#contact)
 
 -----
 
-# Offerings
+# For who?
+
+- For **StartUps** who see the big picture but still need some painters to draw the details: I can bring you momentum by **realizing** your smart **AI** and **ML solutions** right away.
+- For **SMEs** who don’t have their own data lab yet and at least some Excel files lying around here and there: I am the **go-to lab** for identifying the low-hanging gold nuggets in your data and implement **rapid prototypes**, **proof-of-concepts**, and **workflow automatizations**.
+- For **large enterprises**, the big ships out there, who are **short of staff** from time to time: I can **jump in** quickly and help you to build your **data**, **ML**, and **visualization pipelines** along the ground of your data ocean.
+- For the **rest of you** out there: I will provide you with healthy **food for thoughts** by writing **blog posts** about **outer** and **inner alchemy** in our age of data and AI.
+
+[Jump to top](#zosimolab)
+
+-----
+
+# Services
 
 - [Machine Learning and Data Science Consulting](#machine-learning-and-data-science-consulting)
 - [Innovative Prototype Development](#innovative-prototype-development)
@@ -41,6 +54,8 @@ It’s possible. Ask Zosimo the Alchemist.
 ## Creative Consulting
 - **Innovation Workshops:** Conduct workshops to help teams to generate creative data use cases and to integrate machine learning into their workflows / solutions. 
 - **Strategic Advisory:** Provide strategic advice on how businesses can leverage data science and AI for innovation.
+
+[Jump to top](#zosimolab)
 
 -----
 
@@ -76,6 +91,7 @@ Python, Scikit-Learn, Tensorflow, MLflow, PostgreSQL, Kubernetes
 
 ![Partial dependences for different input features](/img/pdp_heat_demand_indicator.png)
 
+[Jump to top](#zosimolab)
 -----
 
 ## Energy and CO2 Monitoring for Municipalities
@@ -99,6 +115,7 @@ Python, Pandas, Scikit-Learn, PostgreSQL, Kubernetes, Hangfire
 
 ![Energie Reporter](/img/energiereporter.png)
 
+[Jump to top](#zosimolab)
 -----
 
 ## Model-based Signal Processing and Sparse Priors
@@ -124,6 +141,7 @@ Matlab
 
 ![eye_movement_separation](/img/eye_movement_separation.png)
 
+[Jump to top](#zosimolab)
 -----
 
 ## Machine Learning-based Lead Generator (or Recommender System)
@@ -146,6 +164,8 @@ Python, Scikit-Learn
 - [Blog: Machine learning for MarketSense](https://www.swissenergyplanning.ch/post/machine-learning-for-marketsense-1)
 
 ![similarity_clustering](/img/similarity_clustering.png)
+
+[Jump to top](#zosimolab)
 
 -----
 
@@ -171,6 +191,7 @@ Python, lifelines, TensorFlow Probability
 
 ![renovpress](/img/renovpress.png)
 
+[Jump to top](#zosimolab)
 -----
 
 ## Image Segmentation from Classification Labels only
@@ -190,9 +211,12 @@ Python, PyTorch, OpenCV
 
 ![test_CAM](/img/test_CAM.jpg)
 
+[Jump to top](#zosimolab)
+
 -----
 
 # About
+
 > ca. 300: Zosimos of Panopolis (also known by the Latin name Zosimus Alchemista) was an alchemist living in the south of then Roman Egypt who wrote the oldest known books on alchemy. Alchemists were striving for understanding external and internal nature. In particular, one quest was the transformation of cupper into gold through a process of purification. This process of purifying external nature was thought to be mirrored by a process of purifying internal nature, where the quest was to draw the spirit from its bondage with bodies.
 > 
 > 1718: Zosimo was a farmer living in Sicily who was elected king by the people. The people of Sicily were at the time controlled by Spanish oppressors. Zosimo started a revolution that brought the power back to the people, at least for a short period of time. I like to think of him as a social transformer or alchemist. There is a book written about his story by Andrea Camilleri as well as a song by the band Il Coccodrillo.
@@ -204,6 +228,23 @@ My name is Thilo Weber, I have a Msc. in electrical engineering and information 
 
 ![kl_portrait](/img/kl_portrait.jpg)
 
+[Jump to top](#zosimolab)
 
+-----
+
+# Blog
+
+I am writing about outer and inner alchemy on [Medium](https://medium.com/@thiloweber) from time to time.
+
+Currently, I would distinct between inner and outer alchemy loosely by saying that inner alchemy is everything that cannot me measured by data. I aspire to approach a more comprehensive definition over the years.
+
+-----
+
+# Contact
+
+- contact@zosimolab.com
+- [freelancermap profile](https://www.freelancermap.ch/profil/thilo-weber)
+
+[Jump to top](#zosimolab)
 
 
