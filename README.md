@@ -7,7 +7,7 @@ You just need an alchemist. 
 It’s possible. Ask Zosimo the Alchemist.
 ````
 
-- [For who?](#for-who?)
+- [For whom?](#for-whom?)
 - [Services](#services)
 - [Example Projects](#example-projects)
 - [About](#about)
@@ -16,7 +16,7 @@ It’s possible. Ask Zosimo the Alchemist.
 
 -----
 
-# For who?
+# For whom?
 
 - For **StartUps** who see the big picture but still need some painters to draw the details: I can bring you momentum by **realizing** your smart **AI** and **ML solutions** right away.
 - For **SMEs** who don’t have their own data lab yet and at least some Excel files lying around here and there: I am the **go-to lab** for identifying the low-hanging gold nuggets in your data and implement **rapid prototypes**, **proof-of-concepts**, and **workflow automatizations**.
