@@ -238,6 +238,8 @@ I am writing about outer and inner alchemy on [Medium](https://medium.com/@thilo
 
 Currently, I would distinct between inner and outer alchemy loosely by saying that inner alchemy is everything that cannot me measured by data. I aspire to approach a more comprehensive definition over the years.
 
+[Jump to top](#zosimolab)
+
 -----
 
 # Contact
