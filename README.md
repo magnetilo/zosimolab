@@ -18,7 +18,7 @@ It’s possible. Ask Zosimo the Alchemist.
 
 # Services
 
-- Implementing **custom AI & ML solutions** for organizations with a clear data vision:
+- **Implementing custom AI & ML solutions** for organizations with a clear data vision:
   - Predictive modeling
   - Root cause analysis
   - Recommendation systems
