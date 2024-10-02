@@ -7,53 +7,24 @@ You just need an alchemist. 
 It’s possible. Ask Zosimo the Alchemist.
 ````
 
-- [For whom?](#for-whom?)
 - [Services](#services)
 - [Example Projects](#example-projects)
 - [About](#about)
+- [Partners](#partners)
 - [Blog](#blog)
 - [Contact](#contact)
 
 -----
 
-# For whom?
-
-- For **StartUps** who see the big picture but still need some painters to draw the details: I can bring you momentum by **realizing** your smart **AI** and **ML solutions** right away.
-- For **SMEs** who don’t have their own data lab yet and at least some Excel files lying around here and there: I am the **go-to lab** for identifying the low-hanging gold nuggets in your data and implement **rapid prototypes**, **proof-of-concepts**, and **workflow automatizations**.
-- For **large enterprises**, the big ships out there, who are **short of staff** from time to time: I can **jump in** quickly and help you to build your **data**, **ML**, and **visualization pipelines** along the ground of your data ocean.
-- For the **rest of you** out there: I will provide you with healthy **food for thoughts** by writing **blog posts** about **outer** and **inner alchemy** in our age of data and AI.
-
-[Jump to top](#zosimolab)
-
------
-
 # Services
 
-- [Machine Learning and Data Science Consulting](#machine-learning-and-data-science-consulting)
-- [Innovative Prototype Development](#innovative-prototype-development)
-- [Custom AI Solutions](#custom-ai-solutions)
-- [Creative Consulting](#creative-consulting)
-
-## Machine Learning and Data Science Consulting
-- **Data Analysis and Visualization:** Create and enhance understanding of complex processes and problems through analyzing monitoring datasets. ** Example projects:** [Energy Efficiency Monitoring and Root Cause Analysis](#energy-efficiency-monitoring-and-root-cause-analysis), [Time-to-Event Prediction and Survival Analysis](#time-to-event-prediction-and-survival-analysis), [Model-based Signal Processing and Sparse Priors](#model-based-signal-processing-and-sparse-priors)
-- **Monitoring and Predictive Modeling:** Build up monitoring for indicators of interest and develop predictive models to forecast demands, trends, customer behaviors, and more.  **Example projects:** [Energy and CO2 Monitoring for Municipalities](#energy-and-CO2-monitoring-for-municipalities), [Energy Efficiency Monitoring and Root Cause Analysis](#energy-efficiency-monitoring-and-root-cause-analysis)
-- **Natural Language Processing (NLP):** Implement NLP solutions for analyzing and structuring unstructured data and developing chatbots. ** Example projects:** “Address matching service”, ... currently working on a RAG-chatbot  project
-- **Computer Vision:** Create image and video analysis models for applications in security, healthcare, retail, etc.  **Example projects:** [Image Segmentation from Classification Labels only](#image-segmentation-from-classification-labels-only)
-- **Recommendation Systems:** Build personalized recommendation engines to support workflow of sales and operations employees, or enhance user experiences in e-commerce and content platforms.  **Example projects:** [Machine Learning-based Lead Generator (or Recommender System)](#machine-learning-based-lead-generator-(or–recommender-system)), [Time-to-Event Prediction and Survival Analysis](#time-to-event-prediction-and-survival-analysis)
-
-## Innovative Prototype Development
-- **Prototype Ideation:** Generate creative, data-driven ideas that can be transformed into innovative prototypes.
-- **Rapid Prototyping:** Develop quick prototypes using machine learning and data science techniques to validate concepts.
-- **Proof of Concept (PoC) Development:** Create PoCs to demonstrate the feasibility and value of innovative ideas.
-
-## Custom AI Solutions
-- **Automation of Business Processes:** Develop AI-driven automation tools that streamline workflows and reduce operational costs.
-- **Custom Machine Learning Algorithms:** Design and implement bespoke machine learning algorithms tailored to specific business needs.
-- **AI-Driven Product Development:** Assist in the creation of AI-infused products that leverage data for enhanced functionality.
-
-## Creative Consulting
-- **Innovation Workshops:** Conduct workshops to help teams to generate creative data use cases and to integrate machine learning into their workflows / solutions. 
-- **Strategic Advisory:** Provide strategic advice on how businesses can leverage data science and AI for innovation.
+- Implementing **custom AI & ML solutions** for organizations with a clear data vision:
+  - Predictive modeling
+  - Root cause analysis
+  - Recommendation systems
+  - Computer vision
+  - Natural language processing and chatbots
+- **Strategic advisory** and **creative workshops** for organizations who want to **sharpen** their **data vision** and bring AI & ML solutions into their products and workflows.
 
 [Jump to top](#zosimolab)
 
@@ -227,6 +198,17 @@ About me:
 My name is Thilo Weber, I have a Msc. in electrical engineering and information processing from ETH Zurich, and several years of experience in realizing data science and machine learning projects in the industry. Trough ZosimoLab, I want to share my passion for understanding the world through data with you, and help you to create great machine learning solutions. Further, I would also like to share my process of inner alchemy by embedding the current progress in data science and artificial intelligence in a phsychological and philosophical understanding.
 
 ![kl_portrait](/img/kl_portrait.jpg)
+
+[Jump to top](#zosimolab)
+
+-----
+
+# Partners
+
+To create optimal solutions on larger data projects, I work with dedicated implementation partners:
+- Joris Noordermeer, Web Development, [https://noordermeer.ch/](https://noordermeer.ch/)
+- Aarefabrik, Mobile Apps & Web Development, [https://aarefabrik.ch/](https://aarefabrik.ch/)
+- Datali, Data Solutions, [https://datali.ch/](https://datali.ch/)
 
 [Jump to top](#zosimolab)
 
