@@ -20,12 +20,12 @@ It’s possible. Ask Zosimo the Alchemist.
 
 - **Implementing custom AI & ML solutions**:
   - **Predictive modeling**: Probabilistic modelling of real world processes (mechanistic, biological, statistical, chemical, physical, ...).
-  - **Real estate and energy data**: Deep knowledge of available data sources (especially in Switzerland), and how to extract value from them.
-  - **Geo-spatial data and analysis**: Profound experience of answering questions with geo-spatial datasets.
-  - **Time-series data**: Data modelling and analysis of temporal signals.
   - **Computer vision**: Extracting information from images and raster data.
-  - **Unstructured data**: Extracting structured information and thereby value from unstructured documents, such as PDFs, images, Word-documents, ...
   - **Natural language processing and chatbots**: Text classification, RAG and AI-assinstant prototypes for answering questions from documents or webpages, ...
+  - **Real estate and energy data**: Deep knowledge of available data sources (especially in Switzerland), and how to extract value from them.
+  - **Geo-spatial data**: Profound experience of answering questions with geo-spatial datasets.
+  - **Time-series data**: Data modelling and analysis of temporal signals.
+  - **Unstructured data**: Extracting structured information and thereby value from unstructured documents, such as PDFs, images, Word-documents, ...
 - **Strategic advisory** and **creative workshops** for organizations who want to **sharpen** their **data vision** and bring AI & ML solutions into their products and workflows.
   - **Evaluation-driven development**: How to sustainably develop AI & ML solutions in presence of uncertainty in model results?
   - **Converting data to gold**: How to unlock the value hidden in your data with ML & AI & data analytics?
