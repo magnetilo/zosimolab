@@ -26,7 +26,7 @@ It’s possible. Ask Zosimo the Alchemist.
   - **Geo-spatial data**: Answering questions with geo-spatial datasets.
   - **Time-series data**: Data modelling and analysis of temporal signals.
   - **Unstructured data**: Extracting structured information and thereby value from unstructured documents, such as PDFs, images, Word-documents, ...
-- **Strategic advisory** and **creative workshops** for organizations who want to **sharpen** their **data vision** and bring AI & ML solutions into their products and workflows.
+- **Strategic advisory and creative workshops**:
   - **Evaluation-driven development**: How to sustainably develop AI & ML solutions in presence of uncertainty in model results?
   - **Converting data to gold**: How to unlock the value hidden in your data with ML & AI & data analytics?
   - **Productionize**: How to bring AI & ML solutions into products and workflows?
