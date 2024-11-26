@@ -22,8 +22,8 @@ It’s possible. Ask Zosimo the Alchemist.
   - **Predictive modeling**: Probabilistic modelling of real world processes (mechanistic, biological, statistical, chemical, physical, ...).
   - **Computer vision**: Extracting information from images and raster data.
   - **Natural language processing and chatbots**: Text classification, RAG and AI-assinstant prototypes for answering questions from documents or webpages, ...
-  - **Real estate and energy data**: Deep knowledge of available data sources (especially in Switzerland), and how to extract value from them.
-  - **Geo-spatial data**: Profound experience of answering questions with geo-spatial datasets.
+  - **Real estate and energy data**: Profound knowledge of available data sources (especially in Switzerland), and how to extract value from them.
+  - **Geo-spatial data**: Answering questions with geo-spatial datasets.
   - **Time-series data**: Data modelling and analysis of temporal signals.
   - **Unstructured data**: Extracting structured information and thereby value from unstructured documents, such as PDFs, images, Word-documents, ...
 - **Strategic advisory** and **creative workshops** for organizations who want to **sharpen** their **data vision** and bring AI & ML solutions into their products and workflows.
