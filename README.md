@@ -18,13 +18,17 @@ It’s possible. Ask Zosimo the Alchemist.
 
 # Services
 
-- **Implementing custom AI & ML solutions** for organizations with a clear data vision:
-  - Predictive modeling
-  - Root cause analysis
-  - Recommendation systems
-  - Computer vision
-  - Natural language processing and chatbots
+- **Implementing custom AI & ML solutions**:
+  - Predictive modeling: Probabilistic modelling of real world processes (mechanistic, biological, statistical, chemical, physical, ...).
+  - Real estate and energy data: Deep knowledge of available data sources (especially in Switzerland), and how to extract value from them.
+  - Geo-spatial data and analysis: Profound experience of answering questions with geo-spatial datasets.
+  - Time-series data: Data modelling and analysis of temporal signals.
+  - Computer vision: Extracting information from images and raster data.
+  - Unstructured data: Extracting structured information and thereby value from unstructured documents, such as PDFs, images, Word-documents, ...
+  - Natural language processing and chatbots: Text classification, RAG and AI-assinstant prototypes for answering questions from documents or webpages, ...
 - **Strategic advisory** and **creative workshops** for organizations who want to **sharpen** their **data vision** and bring AI & ML solutions into their products and workflows.
+  - Evaluation-driven development of AI & ML solutions: How to sustainably develop solutions in presence of uncertainty in results?
+  - Uncovering the value dormant in your datasets with ML & AI & data analysis.
 
 [Jump to top](#zosimolab)
 
@@ -32,12 +36,40 @@ It’s possible. Ask Zosimo the Alchemist.
 
 # Example Projects
 
+* [Parsing Ustructured PDFs & Information Extraction from Documents](#parsing-ustructured-pdfs-information-extraction-from-documents)
 * [Energy Efficiency Monitoring and Root Cause Analysis](#energy-efficiency-monitoring-and-root-cause-analysis)
 * [Energy and CO2 Monitoring for Municipalities](#energy-and-CO2-monitoring-for-municipalities)
 * [Model-based Signal Processing and Sparse Priors](#model-based-signal-processing-and-sparse-priors)
 * [Machine Learning-based Lead Generator (or Recommender System)](#machine-learning-based-lead-generator-(or–recommender-system))
 * [Time-to-Event Prediction and Survival Analysis](#time-to-event-prediction-and-survival-analysis)
 * [Image Segmentation from Classification Labels only](#image-segmentation-from-classification-labels-only)
+
+-----
+
+## Parsing Ustructured PDFs & Information Extraction from Documents
+
+### Description:
+For [Demokratis](https://www.demokratis.ch/), I helped to make Legislative Consultation PDFs more accessible and interactive by parsing them into a structured data form using AI. I employed an evaluation driven development approach, that helps to navigate tha landscape of innumerable possible parsing solutions.
+
+### Methods:
+* **Evaluation driven Generative AI**: Constructing numeric and visual evaluation metrics using Python's difflib and tracking experiment code and results in MLflow.
+* **LlamaParse**: Powerful AI tool for extracting data from documents, such as PDFs.
+* **ChatGPT API with file upload**: Another approach evaluated, but less suited for this particular problem.
+
+### Specials:
+Similar approaches can used to bring a wide range of real world data and documents into a structured form, building the basis for a variety of data analysis and processing use cases.
+
+### Technology:
+Python, LlamaParse, openai APIs, MLflow, difflib
+
+### Links:
+* [Blog: Parsing Legislative Consultation PDFs Using LlamaParse](https://medium.com/@thiloweber/parsing-legislative-consultation-pdfs-using-llamaparse-fdd4627b9094)
+
+![Difflib HTML comparison](/img/output-difflib-html.png)
+
+[Jump to top](#zosimolab)
+
+-----
 
 ## Energy Efficiency Monitoring and Root Cause Analysis
 
@@ -63,6 +95,7 @@ Python, Scikit-Learn, Tensorflow, MLflow, PostgreSQL, Kubernetes
 ![Partial dependences for different input features](/img/pdp_heat_demand_indicator.png)
 
 [Jump to top](#zosimolab)
+
 -----
 
 ## Energy and CO2 Monitoring for Municipalities
@@ -87,6 +120,7 @@ Python, Pandas, Scikit-Learn, PostgreSQL, Kubernetes, Hangfire
 ![Energie Reporter](/img/energiereporter.png)
 
 [Jump to top](#zosimolab)
+
 -----
 
 ## Model-based Signal Processing and Sparse Priors
@@ -113,6 +147,7 @@ Matlab
 ![eye_movement_separation](/img/eye_movement_separation.png)
 
 [Jump to top](#zosimolab)
+
 -----
 
 ## Machine Learning-based Lead Generator (or Recommender System)
@@ -163,6 +198,7 @@ Python, lifelines, TensorFlow Probability
 ![renovpress](/img/renovpress.png)
 
 [Jump to top](#zosimolab)
+
 -----
 
 ## Image Segmentation from Classification Labels only
@@ -216,7 +252,7 @@ To create optimal solutions on larger data projects, I work with dedicated imple
 
 # Blog
 
-I am writing about outer and inner alchemy on [Medium](https://medium.com/@thiloweber) from time to time.
+I am writing about my projects and inner alchemy on [Medium](https://medium.com/@thiloweber).
 
 Currently, I would distinct between inner and outer alchemy loosely by saying that inner alchemy is everything that cannot me measured by data. I aspire to approach a more comprehensive definition over the years.
 
