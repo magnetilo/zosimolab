@@ -225,6 +225,8 @@ Python, PyTorch, OpenCV
 
 # About
 
+![outer-inner-knowledge](/img/ZosimoLab-outer-inner-knowledge.png)
+
 > ca. 300: Zosimos of Panopolis (also known by the Latin name Zosimus Alchemista) was an alchemist living in the south of then Roman Egypt who wrote the oldest known books on alchemy. Alchemists were striving for understanding external and internal nature. In particular, one quest was the transformation of cupper into gold through a process of purification. This process of purifying external nature was thought to be mirrored by a process of purifying internal nature, where the quest was to draw the spirit from its bondage with bodies.
 > 
 > 1718: Zosimo was a farmer living in Sicily who was elected king by the people. The people of Sicily were at the time controlled by Spanish oppressors. Zosimo started a revolution that brought the power back to the people, at least for a short period of time. I like to think of him as a social transformer or alchemist. There is a book written about his story by Andrea Camilleri as well as a song by the band Il Coccodrillo.
@@ -234,7 +236,7 @@ Python, PyTorch, OpenCV
 About me:
 My name is Thilo Weber, I have a Msc. in electrical engineering and information processing from ETH Zurich, and several years of experience in realizing data science and machine learning projects in the industry. Trough ZosimoLab, I want to share my passion for understanding the world through data with you, and help you to create great machine learning solutions. Further, I would also like to share my process of inner alchemy by embedding the current progress in data science and artificial intelligence in a phsychological and philosophical understanding.
 
-![kl_portrait](/img/kl_portrait.jpg)
+![kl_portrait](/img/portrait-tarasp.png)
 
 [Jump to top](#zosimolab)
 
@@ -253,9 +255,14 @@ To create optimal solutions on larger data projects, I work with dedicated imple
 
 # Blog
 
-I am writing about my projects and inner alchemy on [Medium](https://medium.com/@thiloweber).
+I am writing about my projects, knowledge of the world, and self-knowledge on [Medium](https://medium.com/@thiloweber).
 
-Currently, I would distinct between inner and outer alchemy loosely by saying that inner alchemy is everything that cannot me measured by data. I aspire to approach a more comprehensive definition over the years.
+- [Parsing Legislative Consultation PDFs Using LlamaParse](https://medium.com/@thiloweber/parsing-legislative-consultation-pdfs-using-llamaparse-fdd4627b9094)
+- [A Yogic Perspective on Artificial Intelligence: Bridging Consciousness and Technology](https://medium.com/@thiloweber/a-yogic-perspective-on-artificial-intelligence-bridging-consciousness-and-technology-5ce1449544f1)
+- [Why AI is Not Intelligent](https://medium.com/@thiloweber/why-ai-is-not-intelligent-2aa0427f47e9)
+- [The Path of Relationship](https://medium.com/@thiloweber/the-path-of-relationship-b7d540173aac)
+- [Towards Physics, Towards Data Science, and Beyond](Towards Physics, Towards Data Science, and Beyond)
+- [Our Daily Cycles of Aversion From and Attachment To Work](https://medium.com/@thiloweber/our-daily-cycles-of-aversion-from-and-attachment-to-work-and-how-content-platforms-are-helping-bc89bad3614c)
 
 [Jump to top](#zosimolab)
 
