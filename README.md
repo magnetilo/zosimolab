@@ -1,6 +1,6 @@
 # ZosimoLab
 
-ZosimoLab is a data and knowledge company in formation by Thilo Weber.
+ZosimoLab is a data and knowledge company by Thilo Weber.
 ````
 Data is the new gold! 
 You just need an alchemist. 
