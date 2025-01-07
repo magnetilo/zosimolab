@@ -78,6 +78,7 @@ Python, LlamaParse, openai APIs, MLflow, difflib
 At geoimpact, I developed machine learning models for predicting the yearly heat and electricity demands of buildings. In the context of a Master’s thesis, we used these models to estimate the actual reduction in yearly heat consumption effected by different renovation measures (roof/facade insulation, window replacement, ...). This framework can be used to build a monitoring of the effects of different measures applied to buildings in a portfolio or a region.
 
 ### Methods:
+* **Heterogeneous treatment effects & causal inference:** Heterogeneous treatment effects refer to the variation in the impact of a treatment across individuals or subgroups, and causal inference aims to estimate and understand these effects by identifying the causal relationship between interventions and outcomes.
 * **Partial dependence:** The plots below show the partial dependence of the heat consumption indicator (HCI) on construction year and heating degree days.
 * **Combining domain knowledge & ML:**  In the plots below, the lines of the linear model and the neural network, which both integrate domain knowledge in the model architecture, show more realistic dependencies than the gradient boosting (without domain knowledge).
 
@@ -85,7 +86,7 @@ At geoimpact, I developed machine learning models for predicting the yearly heat
 Apart from efficiency monitoring, such a framework can be used for a general root cause analysis of physical processes. For example, I introduced the framework to a friend who is working for a big chemical industry company. He quickly gained a lot of valuable insights into their production processes from it. He is since known as “the data leech” at his company.
 
 ### Technology:
-Python, Scikit-Learn, Tensorflow, MLflow, PostgreSQL, Kubernetes
+Python, Scikit-Learn, Tensorflow, CausalML, MLflow, PostgreSQL, Kubernetes
 
 ### Links:
 * [Blog heat demand model](https://www.swissenergyplanning.ch/post/machine-learning-based-heat-demand-model)
@@ -257,7 +258,11 @@ To create optimal solutions on larger data projects, I work with dedicated imple
 
 I am writing about my projects, knowledge of the world, and self-knowledge on [Medium](https://medium.com/@thiloweber).
 
+Projects:
 - [Parsing Legislative Consultation PDFs Using LlamaParse](https://medium.com/@thiloweber/parsing-legislative-consultation-pdfs-using-llamaparse-fdd4627b9094)
+
+Self-knowledge:
+- [Social Liberation: The Quest of Conquering the Ego](https://medium.com/@thiloweber/social-liberation-the-quest-of-conquering-the-ego-83a69b9264ba)
 - [A Yogic Perspective on Artificial Intelligence: Bridging Consciousness and Technology](https://medium.com/@thiloweber/a-yogic-perspective-on-artificial-intelligence-bridging-consciousness-and-technology-5ce1449544f1)
 - [Why AI is Not Intelligent](https://medium.com/@thiloweber/why-ai-is-not-intelligent-2aa0427f47e9)
 - [The Path of Relationship](https://medium.com/@thiloweber/the-path-of-relationship-b7d540173aac)
