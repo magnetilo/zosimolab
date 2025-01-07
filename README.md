@@ -266,7 +266,7 @@ Self-knowledge:
 - [A Yogic Perspective on Artificial Intelligence: Bridging Consciousness and Technology](https://medium.com/@thiloweber/a-yogic-perspective-on-artificial-intelligence-bridging-consciousness-and-technology-5ce1449544f1)
 - [Why AI is Not Intelligent](https://medium.com/@thiloweber/why-ai-is-not-intelligent-2aa0427f47e9)
 - [The Path of Relationship](https://medium.com/@thiloweber/the-path-of-relationship-b7d540173aac)
-- [Towards Physics, Towards Data Science, and Beyond](Towards Physics, Towards Data Science, and Beyond)
+- [Towards Physics, Towards Data Science, and Beyond](https://medium.com/@thiloweber/towards-physics-towards-data-science-and-beyond-7facd344cf81)
 - [Our Daily Cycles of Aversion From and Attachment To Work](https://medium.com/@thiloweber/our-daily-cycles-of-aversion-from-and-attachment-to-work-and-how-content-platforms-are-helping-bc89bad3614c)
 
 [Jump to top](#zosimolab)
