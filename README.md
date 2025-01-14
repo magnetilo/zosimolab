@@ -37,7 +37,7 @@ It’s possible. Ask Zosimo the Alchemist.
 
 # Example Projects
 
-* [Parsing Ustructured PDFs & Information Extraction from Documents](#parsing-ustructured-pdfs-information-extraction-from-documents)
+* [Parsing Ustructured PDFs and Information Extraction from Documents](#parsing-ustructured-pdfs-and-information-extraction-from-documents)
 * [Energy Efficiency Monitoring and Root Cause Analysis](#energy-efficiency-monitoring-and-root-cause-analysis)
 * [Energy and CO2 Monitoring for Municipalities](#energy-and-CO2-monitoring-for-municipalities)
 * [Model-based Signal Processing and Sparse Priors](#model-based-signal-processing-and-sparse-priors)
@@ -47,7 +47,7 @@ It’s possible. Ask Zosimo the Alchemist.
 
 -----
 
-## Parsing Ustructured PDFs & Information Extraction from Documents
+## Parsing Ustructured PDFs and Information Extraction from Documents
 
 ### Description:
 For [Demokratis](https://www.demokratis.ch/), I helped to make Legislative Consultation PDFs more accessible and interactive by parsing them into a structured data form using AI. I employed an evaluation driven development approach, that helps to navigate tha landscape of innumerable possible parsing solutions.
