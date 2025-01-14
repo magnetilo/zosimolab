@@ -58,7 +58,7 @@ For [Demokratis](https://www.demokratis.ch/), I helped to make Legislative Consu
 * **ChatGPT API with file upload**: Another approach evaluated, but less suited for this particular problem.
 
 ### Specials:
-Similar approaches can convert a wide range of real world data and documents into a structured form, and thereby unlock great potential for a variety of new data analysis and processing use cases.
+Similar approaches can be used to convert a wide range of real world data and documents into a structured form, and thereby unlock great potential for a variety of new data analysis and processing use cases.
 
 ### Technology:
 Python, LlamaParse, openai APIs, MLflow, difflib
