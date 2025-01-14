@@ -50,7 +50,7 @@ It’s possible. Ask Zosimo the Alchemist.
 ## Parsing Ustructured PDFs and Information Extraction from Documents
 
 ### Description:
-For [Demokratis](https://www.demokratis.ch/), I helped to make Legislative Consultation PDFs more accessible and interactive by parsing them into a structured data form using AI. I employed an evaluation driven development approach, that helps to navigate tha landscape of innumerable possible parsing solutions.
+For [Demokratis](https://www.demokratis.ch/), I helped to make Legislative Consultation PDFs more accessible and interactive by parsing them into a structured data form using AI. I employed an evaluation driven development approach, that helps to navigate the landscape of innumerable possible parsing solutions.
 
 ### Methods:
 * **Evaluation driven Generative AI**: Constructing numeric and visual evaluation metrics using Python's difflib and tracking experiment code and results in MLflow.
@@ -58,7 +58,7 @@ For [Demokratis](https://www.demokratis.ch/), I helped to make Legislative Consu
 * **ChatGPT API with file upload**: Another approach evaluated, but less suited for this particular problem.
 
 ### Specials:
-Similar approaches can used to bring a wide range of real world data and documents into a structured form, building the basis for a variety of data analysis and processing use cases.
+Similar approaches can convert a wide range of real world data and documents into a structured form, and thereby unlock great potential for a variety of new data analysis and processing use cases.
 
 ### Technology:
 Python, LlamaParse, openai APIs, MLflow, difflib
