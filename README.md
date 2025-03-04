@@ -258,10 +258,12 @@ To create optimal solutions on larger data projects, I work with dedicated imple
 
 I am writing about my projects, knowledge of the world, and self-knowledge on [Medium](https://medium.com/@thiloweber).
 
-Projects:
+Data Projects:
+- [Discovering the Unconscious Through Data Analysis](https://medium.com/@thiloweber/discovering-the-unconscious-through-data-analysis-9d19ec6e8bcc)
 - [Parsing Legislative Consultation PDFs Using LlamaParse](https://medium.com/@thiloweber/parsing-legislative-consultation-pdfs-using-llamaparse-fdd4627b9094)
 
 Self-knowledge:
+- [DeepSeek Doesn’t Exist: Interviewing AI on Emotions, Separation, and Its Own (Non)Existence](https://medium.com/@thiloweber/deepseek-doesnt-exist-interviewing-ai-on-emotions-separation-and-its-own-non-existence-65cd872dd247)
 - [Social Liberation: The Quest of Conquering the Ego](https://medium.com/@thiloweber/social-liberation-the-quest-of-conquering-the-ego-83a69b9264ba)
 - [A Yogic Perspective on Artificial Intelligence: Bridging Consciousness and Technology](https://medium.com/@thiloweber/a-yogic-perspective-on-artificial-intelligence-bridging-consciousness-and-technology-5ce1449544f1)
 - [Why AI is Not Intelligent](https://medium.com/@thiloweber/why-ai-is-not-intelligent-2aa0427f47e9)
@@ -275,8 +277,10 @@ Self-knowledge:
 
 # Contact
 
-- contact@zosimolab.com
-- [freelancermap profile](https://www.freelancermap.ch/profil/thilo-weber)
+ZosimoLab by Thilo Weber
+Am Wasser 132, 8049 Zürich
+contact@zosimolab.com
+CHE-164.285.194
 
 [Jump to top](#zosimolab)
 
