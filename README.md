@@ -277,13 +277,10 @@ Self-knowledge:
 
 # Contact
 
-ZosimoLab by Thilo Weber
-
-Am Wasser 132, 8049 Zürich
-
-contact@zosimolab.com
-
-CHE-164.285.194
+ZosimoLab by Thilo Weber  
+Am Wasser 132, 8049 Zürich  
+contact@zosimolab.com  
+CHE-164.285.194  
 
 [Jump to top](#zosimolab)
 
