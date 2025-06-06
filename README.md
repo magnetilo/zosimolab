@@ -90,7 +90,7 @@ Python, Scikit-Learn, Tensorflow, CausalML, MLflow, PostgreSQL, Kubernetes
 
 ### Links:
 * [Blog heat demand model](https://www.swissenergyplanning.ch/post/machine-learning-based-heat-demand-model)
-* ... a paper presenting the framework is in progress in collaboration with Hochschule Luzern.
+* [Scientific paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222156) in collaboration with Hochschule Luzern (publication status submitted, not yet published).
 
 ![Framework diagram](/img/framwork_schema.png)
 
